@@ -1,0 +1,86 @@
+a {
+  color: #fff;
+  font-size: 150%;
+}
+
+.btn-link {
+  color: #fff;
+  font-size: 150%;
+  
+}
+
+.active {
+  text-decoration: underline;
+}
+
+body {
+  font-family: 'Roboto';
+}
+
+.btn-md {
+  background-color: #fff;
+  border-radius: 30px;
+  color:#00c0ac;
+  cursor: pointer;
+  font-size: 70%;
+  padding: 1% 10%;
+}
+
+.btn-sm {
+  background-color: #fff;
+  border-radius: 45px;
+  color:#00C0AC;
+  cursor: pointer;
+  padding: 3% 25%;
+  margin: 10%;
+}
+
+.btn-xs {
+  background-color: #fff;
+  border-radius: 25px;
+  margin-top: -5%; 
+  color:#00C0AC;
+  cursor: pointer;
+  font-size: 70%;
+  padding: .5% 2.5%;
+}
+
+
+.col-sm-5 {
+  margin-top: 5%;
+}
+
+.col-sm-7 {
+  font-size: 200%;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.container-fluid {
+  background:#00C0AC; 
+  background: -webkit-linear-gradient(#00C0AC, #00DFAC); 
+  background: -o-linear-gradient(#00C0AC, #00DFAC); 
+  background: -moz-linear-gradient(#00C0AC, #00DFAC);  
+  background: linear-gradient(#00C0AC, #00DFAC); 
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.navbar {
+margin-top: 1%; 
+}
+
+p {
+  font-size: 50%;
+}
+
+.text-left {
+  font-size: 200%;
+  left: 2.5%;
+  top: 10%;
+}
+
+.text-right {
+  right: 4%;
+  top: 3%;
+}
